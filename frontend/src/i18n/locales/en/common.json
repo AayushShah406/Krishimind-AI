@@ -1,0 +1,54 @@
+{
+  "appName": "KrishiMind AI",
+  "tagline": "Smarter farming decisions with AI.",
+  "nav": {
+    "dashboard": "Dashboard",
+    "farms": "Farms",
+    "fields": "Fields",
+    "crops": "Crops",
+    "soil": "Soil",
+    "weather": "Weather",
+    "irrigation": "Irrigation",
+    "aiAdvisor": "AI Advisor",
+    "recommendations": "Recommendations",
+    "imageAnalysis": "Crop Image Analysis",
+    "notifications": "Notifications",
+    "advisorDashboard": "Advisor Portal",
+    "adminDashboard": "Admin Center",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "roles": {
+    "farmer": "Farmer",
+    "advisor": "Agricultural Advisor",
+    "admin": "Platform Administrator"
+  },
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "create": "Create",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View Details",
+    "upload": "Upload Image",
+    "analyze": "Analyze",
+    "askAI": "Ask AI Advisor",
+    "export": "Export Data",
+    "filter": "Filter",
+    "close": "Close"
+  },
+  "labels": {
+    "farm": "Farm",
+    "field": "Field",
+    "crop": "Crop",
+    "growthStage": "Growth Stage",
+    "soilMoisture": "Soil Moisture",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "rainfall": "Rainfall",
+    "confidence": "Confidence",
+    "status": "Status",
+    "language": "Language"
+  }
+}

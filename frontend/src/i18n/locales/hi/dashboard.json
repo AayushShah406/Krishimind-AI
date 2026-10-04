@@ -1,0 +1,20 @@
+{
+  "welcome": "स्वागत है",
+  "subtitle": "आपके कृषि कार्यों के लिए सटीक निर्णय बुद्धिमत्ता एवं टेलीमेट्री।",
+  "selectFarm": "फार्म चुनें",
+  "selectField": "खेत चुनें",
+  "todayRecommendation": "आज की एआई सिफारिश",
+  "currentWeather": "वर्तमान मौसम",
+  "soilMoisture": "मिट्टी की नमी",
+  "cropHealth": "फसल स्वास्थ्य",
+  "irrigationStatus": "सिंचाई की स्थिति",
+  "quickActions": "त्वरित कार्य",
+  "addSoilReading": "नमी व पोषक तत्व जोड़ें",
+  "recordIrrigation": "सिंचाई दर्ज करें",
+  "analyzeCrop": "रोग पहचान विश्लेषण",
+  "askAiAdvisor": "एआई सलाहकार से परामर्श",
+  "weatherForecast": "मौसम पूर्वानुमान",
+  "soilMoistureHistory": "मिट्टी की नमी का रुझान (14 दिन)",
+  "recentRecommendations": "हाल की कृषि सिफारिशें",
+  "recentAnalyses": "हाल के फसल छवि विश्लेषण"
+}

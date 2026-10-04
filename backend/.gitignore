@@ -1,0 +1,8 @@
+.env
+*.env
+!.env.example
+.env.local
+__pycache__/
+*.py[cod]
+krishimind.db
+uploads/

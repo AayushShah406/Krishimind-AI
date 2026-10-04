@@ -1,0 +1,54 @@
+{
+  "appName": "कृषिमाइंड एआई",
+  "tagline": "एआई के साथ स्मार्ट कृषि निर्णय।",
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "farms": "खेत / फार्म",
+    "fields": "भूखंड / फ़ील्ड्स",
+    "crops": "फसलें",
+    "soil": "मिट्टी की स्थिति",
+    "weather": "मौसम",
+    "irrigation": "सिंचाई प्रबंधन",
+    "aiAdvisor": "एआई सलाहकार",
+    "recommendations": "सिफारिशें",
+    "imageAnalysis": "फसल छवि विश्लेषण",
+    "notifications": "सूचनाएं",
+    "advisorDashboard": "सलाहकार पोर्टल",
+    "adminDashboard": "प्रशासन केंद्र",
+    "settings": "सेटिंग्स",
+    "profile": "प्रोफ़ाइल",
+    "logout": "लॉग आउट"
+  },
+  "roles": {
+    "farmer": "किसान",
+    "advisor": "कृषि सलाहकार",
+    "admin": "प्लेटफ़ॉर्म प्रशासक"
+  },
+  "actions": {
+    "save": "सुरक्षित करें",
+    "cancel": "रद्द करें",
+    "create": "नया जोड़ें",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "view": "विवरण देखें",
+    "upload": "तस्वीर अपलोड करें",
+    "analyze": "विश्लेषण करें",
+    "askAI": "एआई से पूछें",
+    "export": "डेटा निर्यात",
+    "filter": "फ़िल्टर",
+    "close": "बंद करें"
+  },
+  "labels": {
+    "farm": "फार्म",
+    "field": "खेत",
+    "crop": "फसल",
+    "growthStage": "विकास चरण",
+    "soilMoisture": "मिट्टी की नमी",
+    "temperature": "तापमान",
+    "humidity": "आर्द्रता",
+    "rainfall": "वर्षा",
+    "confidence": "विश्वसनीयता",
+    "status": "स्थिति",
+    "language": "भाषा"
+  }
+}

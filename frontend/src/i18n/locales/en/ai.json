@@ -1,0 +1,22 @@
+{
+  "advisorTitle": "Agricultural Decision Workspace",
+  "advisorSubtitle": "Synthesizes real-time field telemetry, weather forecasts, and ICAR agronomic research via Gemini 3 & Pinecone RAG.",
+  "askPlaceholder": "Ask an agricultural question (e.g. 'Should I irrigate tomorrow?', 'Why are lower leaves yellowing?')...",
+  "send": "Ask AI",
+  "liveContext": "Live Farm Context",
+  "conversations": "Conversation History",
+  "recommendation": "Recommendation",
+  "reason": "Scientific Reasoning",
+  "evidence": "Evidence",
+  "dataUsed": "Telemetry Data Used",
+  "confidence": "Confidence Level",
+  "nextAction": "Recommended Next Action",
+  "warnings": "Agronomic Cautions",
+  "sources": "Research & RAG Sources",
+  "presetQueries": [
+    "Should I irrigate tomorrow?",
+    "Why are my wheat leaves turning yellow?",
+    "What agronomic actions should I take during flowering?",
+    "Is the upcoming rainfall sufficient for root recharge?"
+  ]
+}

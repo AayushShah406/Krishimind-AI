@@ -1,0 +1,20 @@
+{
+  "welcome": "Welcome back",
+  "subtitle": "Real-time decision intelligence and precision telemetry for your agricultural operations.",
+  "selectFarm": "Select Farm",
+  "selectField": "Select Field",
+  "todayRecommendation": "Today's AI Recommendation",
+  "currentWeather": "Current Weather",
+  "soilMoisture": "Soil Moisture",
+  "cropHealth": "Crop Health",
+  "irrigationStatus": "Irrigation Status",
+  "quickActions": "Quick Actions",
+  "addSoilReading": "Add Soil Reading",
+  "recordIrrigation": "Record Irrigation",
+  "analyzeCrop": "Analyze Crop Image",
+  "askAiAdvisor": "Consult AI Advisor",
+  "weatherForecast": "Weather Forecast",
+  "soilMoistureHistory": "Soil Moisture Trend (14 Days)",
+  "recentRecommendations": "Recent Agricultural Recommendations",
+  "recentAnalyses": "Recent Crop Visual Analyses"
+}

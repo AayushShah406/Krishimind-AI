@@ -1,0 +1,54 @@
+{
+  "appName": "કૃષિમાઇન્ડ AI",
+  "tagline": "AI સાથે સ્માર્ટ કૃષિ નિર્ણયો.",
+  "nav": {
+    "dashboard": "ડેશબોર્ડ",
+    "farms": "ખેતરો",
+    "fields": "પ્લોટ / ફીલ્ડ્સ",
+    "crops": "પાકો",
+    "soil": "જમીનની સ્થિતિ",
+    "weather": "હવામાન",
+    "irrigation": "પિયત વ્યવસ્થાપન",
+    "aiAdvisor": "AI સલાહકાર",
+    "recommendations": "ભલામણો",
+    "imageAnalysis": "પાક રોગ ચકાસણી",
+    "notifications": "સૂચનાઓ",
+    "advisorDashboard": "સલાહકાર પોર્ટલ",
+    "adminDashboard": "એડમિન સેન્ટર",
+    "settings": "સેટિંગ્સ",
+    "profile": "પ્રોફાઇલ",
+    "logout": "લૉગ આઉટ"
+  },
+  "roles": {
+    "farmer": "ખેડૂત",
+    "advisor": "કૃષિ સલાહકાર",
+    "admin": "પ્લેટફોર્મ એડમિનિસ્ટ્રેટર"
+  },
+  "actions": {
+    "save": "સાચવો",
+    "cancel": "રદ કરો",
+    "create": "નવું ઉમેરો",
+    "edit": "ફેરફાર કરો",
+    "delete": "કાઢી નાખો",
+    "view": "વિગતો જુઓ",
+    "upload": "ફોટો અપલોડ કરો",
+    "analyze": "વિશ્લેષણ કરો",
+    "askAI": "AI ને પૂછો",
+    "export": "ડેટા એક્સપોર્ટ",
+    "filter": "ફિલ્ટર",
+    "close": "બંધ કરો"
+  },
+  "labels": {
+    "farm": "ખેતર",
+    "field": "પ્લોટ",
+    "crop": "પાક",
+    "growthStage": "વિકાસની અવસ્થા",
+    "soilMoisture": "જમીનમાં ભેજ",
+    "temperature": "તાપમાન",
+    "humidity": "ભેજ (હવામાં)",
+    "rainfall": "વરસાદ",
+    "confidence": "વિશ્વાસ સ્તર",
+    "status": "સ્થિતિ",
+    "language": "ભાષા"
+  }
+}

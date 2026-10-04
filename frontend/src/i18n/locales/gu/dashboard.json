@@ -1,0 +1,20 @@
+{
+  "welcome": "આપનું સ્વાગત છે",
+  "subtitle": "તમારા ખેતર માટે ચોક્કસ AI નિર્ણય બુદ્ધિમત્તા અને જીવંત સેન્સર ડેટા.",
+  "selectFarm": "ખેતર પસંદ કરો",
+  "selectField": "પ્લોટ પસંદ કરો",
+  "todayRecommendation": "આજની AI ભલામણ",
+  "currentWeather": "હાલનું હવામાન",
+  "soilMoisture": "જમીનની ભેજ",
+  "cropHealth": "પાકનું આરોગ્ય",
+  "irrigationStatus": "સિંચાઈ / પિયત સ્થિતિ",
+  "quickActions": "ઝડપી કાર્યો",
+  "addSoilReading": "ભેજ-ખાતર નોંધો",
+  "recordIrrigation": "પિયત નોંધણી",
+  "analyzeCrop": "પાક રોગ વિશ્લેષણ",
+  "askAiAdvisor": "AI સલાહકાર સાથે ચર્ચા",
+  "weatherForecast": "હવામાન આગાહી",
+  "soilMoistureHistory": "જમીન ભેજનો 14 દિવસનો ટ્રેન્ડ",
+  "recentRecommendations": "તાજેતરની કૃષિ ભલામણો",
+  "recentAnalyses": "તાજેતરના રોગ ચકાસણી પરિણામો"
+}
